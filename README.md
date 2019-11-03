@@ -1,3 +1,3 @@
 # vue_gamer
 
-just open the the index.html and enjoy :)
+just open the index.html and enjoy :)
